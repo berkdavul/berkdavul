@@ -1,4 +1,5 @@
-Hi there 👋, My name is Berk
+Hi there 👋,
+My name is Berk
 Welcome to my Github Account!
 I graduated from Electrical&Electronics Engineering in November 2021.
 
